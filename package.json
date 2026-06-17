@@ -1,0 +1,13 @@
+{
+  "name": "driver-drowsiness-software",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix elisdirectrix start",
+    "build": "npm --prefix elisdirectrix run build",
+    "test": "npm --prefix elisdirectrix test"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
